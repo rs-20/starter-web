@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahul Shrotri rrs@a.com
 
 # THANKS
 
