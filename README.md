@@ -10,4 +10,4 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How to Contribute
 Please fork this repository and then issue Pull Requests for review.
 ### Copyright
-2024 Rahul Shrotri
+2024 Rahul Shrotri. All Right Reserved
